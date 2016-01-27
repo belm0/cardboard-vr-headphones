@@ -1,6 +1,6 @@
 # Assembly instructions
 
-Following are instructions for sourcing components and assembling a _Cardboard headphones_ VR viewer.
+Following are instructions for sourcing components and assembling a _Cardboard headphones_ VR viewer.  See the [home page](../../../) for more info about this project.
 
 [![Assembly cover](assembly_cover.jpg) assembly photos](https://goo.gl/photos/LNsYvQ1QFXjgn7276 "Go to assembly photo gallery")
 
