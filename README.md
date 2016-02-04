@@ -1,6 +1,6 @@
 # Cardboard headphones:  DIY headphones for Cardboard VR viewers
 
-[![Picture gallery cover](gallery_cover.jpg) more photos](https://goo.gl/photos/ggecJdJPGQ1fHz2C6 "Go to photo gallery")
+[![Cardboard VR headphones](gallery_cover.jpg) more photos](https://goo.gl/photos/ggecJdJPGQ1fHz2C6 "Go to photo gallery")
 
 **Immersive audio for Cardboard VR without sacrificing easy on & off**
 
