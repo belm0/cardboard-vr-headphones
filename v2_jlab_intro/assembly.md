@@ -6,7 +6,7 @@ Following are instructions for sourcing components and assembling a _Cardboard h
 
 ## What you'll need
 
-* **Cardboard VR viewer** adhering to Google's "New Cardboard" open source design.  See the first row of viewers listed at [Get Cardboard](https://www.google.com/get/cardboard/get-cardboard/) (i.e. Knox V2, I AM CARDBOARD V2, and Unofficial Cardboard 2.0).
+* **Cardboard VR viewer** adhering to Google's "New Cardboard" open source design.  By a ready-made viewer-- _Google Cardboard_, _Knox V2_, _I AM CARDBOARD V2_, or _Unofficial Cardboard 2.0_ listed at [Get Cardboard](https://www.google.com/get/cardboard/get-cardboard/)-- or [make your own](https://www.google.com/get/cardboard/manufacturers/).
 * **headphones** - JLab Audio "INTRO" headphones.  Available from [JLab directly](http://www.jlabaudio.com/products/intro-on-ear-headphone?variant=940963049), Amazon, Newegg, etc.
 * **_Cardboard headphones_ frame** - use your favorite 3D printing service to make a copy of the [frame part](cardboard_headphones_frame.stl) in ABS plastic material
 * **small phillips head screwdriver (#0)**

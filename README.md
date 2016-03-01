@@ -10,6 +10,7 @@ Google Cardboard is great-- a simple VR experience that's easily shared.  Hand i
 
 |<span style="color: brown">Related news</span>
 |------------
+|[Official "Google Cardboard" now on sale](https://store.google.com/product/google_cardboard?utm_source=google-cardboard)— just add headphones!
 |[Spatial audio comes to the Cardboard SDK](http://googledevelopers.blogspot.com/2016/01/spatial-audio-comes-to-cardboard-sdk.html)— you're using your viewer with headphones, right?
 
 ## What is this project exactly?
@@ -18,7 +19,7 @@ Intended for do-it-yourself types, this project publishes the design for a 3D pr
 
 ## What Cardboard VR viewers will this work with?
 
-The headphone frame is designed for the "New Cardboard" VR viewer which Google gave away at their I/O 2015 event and subsequently open-sourced.  Several manufacturers offer viewers based on this design— see the first row of viewers listed at [Get Cardboard](https://www.google.com/get/cardboard/get-cardboard/) (i.e. Knox V2, I AM CARDBOARD V2, and Unofficial Cardboard 2.0).
+The headphone frame is designed for the "New Cardboard" VR viewer which Google gave away at their I/O 2015 event and subsequently open-sourced.  Google and several manufacturers sell viewers based on this design, namely _Google Cardboard_, _Knox V2_, _I AM CARDBOARD V2_, and _Unofficial Cardboard 2.0_ which are listed at [Get Cardboard](https://www.google.com/get/cardboard/get-cardboard/).
 
 ## What headphones will this work with?
 
